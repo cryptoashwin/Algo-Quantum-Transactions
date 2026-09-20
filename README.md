@@ -25,4 +25,5 @@ Quantum-resistant blockchain infrastructure is becoming real.
 Open PowerShell as Administrator:
 ```python
 wsl --install -d Ubuntu"
+
 Restart Windows if requested, then open Ubuntu.
