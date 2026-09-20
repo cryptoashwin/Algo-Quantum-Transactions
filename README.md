@@ -12,7 +12,7 @@ This guide walks through automating Falcon-1024 transaction workflows using:
 → Ubuntu / WSL environment
 → Automated transaction execution
 
-📚 Official docs: Algorand Post-Quantum Accounts
+📚 Official docs: [Algorand Post-Quantum Accounts](https://dev.algorand.co/concepts/accounts/post-quantum/)
 
 ⚠️ MAINNET WARNING:
 This workflow can send real ALGO. Double-check the recipient address, amount, fees, transaction count, and wallet balance before executing anything.
@@ -675,4 +675,12 @@ Run the script:
 python transfer_500_pq.py
 ```
 
+## Official Algorand documentation
 
+- [Post-Quantum Accounts](https://dev.algorand.co/concepts/accounts/post-quantum/)
+- [AlgoKey](https://dev.algorand.co/reference/algokey/)
+- [Algorand Installation](https://dev.algorand.co/nodes/installation/manual-installation/)
+
+## Repository
+
+**cryptoashwin/Algo-Quantum-Transactions**
