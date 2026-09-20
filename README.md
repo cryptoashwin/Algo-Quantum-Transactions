@@ -18,3 +18,11 @@ This guide walks through automating Falcon-1024 transaction workflows using:
 This workflow can send real ALGO. Double-check the recipient address, amount, fees, transaction count, and wallet balance before executing anything.
 
 Quantum-resistant blockchain infrastructure is becoming real.
+
+
+1. Install WSL Ubuntu
+
+Open PowerShell as Administrator:
+```python
+wsl --install -d Ubuntu"
+Restart Windows if requested, then open Ubuntu.
