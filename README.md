@@ -27,3 +27,4 @@ Open PowerShell as Administrator:
 wsl --install -d Ubuntu"
 
 Restart Windows if requested, then open Ubuntu.
+python -m py_compile transfer_100_pq.py
